@@ -4,7 +4,8 @@ import { useSelector, useDispatch, } from 'react-redux'
 import * as actions from '../../store/actions'
 import style from '../../component/Styles/index'
 import HeroCard from '../../component/HeroCard'
-
+import input from '../../component/SearcherInput'
+import Input from '../../component/SearcherInput'
 
 function Heros({ navigation }) {
 	const dispatch = useDispatch()
@@ -21,6 +22,7 @@ function Heros({ navigation }) {
 	} else {
 		return (
 			<View>
+				<Input />
 				<FlatList
 					onEndReachedThreshold={0.8}
 					keyExtractor={item => item.id}
