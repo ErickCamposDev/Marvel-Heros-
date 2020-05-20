@@ -1,10 +1,10 @@
 import React from 'react'
 import { createAppContainer } from 'react-navigation'
 import { createStackNavigator } from 'react-navigation-stack'
-import Heros from './src/component/Heros'
+import Heros from './src/pages/Heros'
 import { Provider } from 'react-redux'
 import store from './src/store'
-import Details from './src/component/Details'
+import Details from './src/pages/Details'
 
 function App() {
   console.disableYellowBox = true
