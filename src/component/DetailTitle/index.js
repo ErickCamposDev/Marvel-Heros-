@@ -12,3 +12,4 @@ function DetailTitle({ children }) {
   );
 }
 export default DetailTitle
+

@@ -37,8 +37,17 @@ const styles = {
 	activeIndicatorView: {
 		flex: 1,
 		alignItems: "center",
-		justifyContent: "center"
+		justifyContent: "center",
+		backgroundColor: 'black'
 	},
+	mainView: {
+		backgroundColor: 'black',
+		flex: 1
+	},
+
+	flatList: {
+		backgroundColor: 'black'
+	}
 }
 
 
