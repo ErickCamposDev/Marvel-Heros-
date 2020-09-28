@@ -7,6 +7,8 @@ import DetailTitle from '../../component/DetailTitle'
 function Details() {
   const { characterDetails } = useSelector(state => state.characters)
 
+
+
   return (
     <View style={{ flex: 1, alignItems: 'center', alignContent: 'center' }}>
       <ScrollView>
