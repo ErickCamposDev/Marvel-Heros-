@@ -5030,9 +5030,9 @@ nan@^2.12.1:
   integrity sha512-isWHgVjnFjh2x2yuJ/tj3JbwoHu3UC2dX5G/88Cm24yB6YopVgxvBObDY7n5xW6ExmFhJpSEQqFPvq9zaXc8Jw==
 
 nanoid@^3.1.5:
-  version "3.1.7"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.7.tgz#3705ccf590b6a51fbd1794fcf204ce7b5dc46c01"
-  integrity sha512-ruOwuatdEf4BxQmZopZqhIMudQ9V83aKocr+q2Y7KasnDNvo2OgbgZBYago5hSD0tCmoSl4flIw9ytDLIVM2IQ==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -5674,6 +5674,11 @@ react-is@^16.12.0, react-is@^16.13.0, react-is@^16.7.0, react-is@^16.8.1, react-
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
+
+react-native-debounce-input@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/react-native-debounce-input/-/react-native-debounce-input-1.0.5.tgz#481ddf8b505fabaec47e1a4cf59435b733e310ad"
+  integrity sha512-X2GUECrjre//F7ePXWy92Q6NhxaorI+rTVFeoL34ARzOcyMcoPp7mol8GmwR3O8G/PMLn1jfqJOH1ryU8vldDQ==
 
 react-native-gesture-handler@^1.6.1:
   version "1.6.1"
